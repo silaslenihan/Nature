@@ -10,7 +10,7 @@ public class NatureMain {
         myScore = 0;
         String[] images = new String[]{"tards.png","tards2.png", "more tards.png"};
         displayImage(images);
-    }//sasda
+    }
 
     public static void displayImage(String[] scenes) {
         JFrame f = new JFrame("A JFrame");
@@ -27,8 +27,8 @@ public class NatureMain {
         p.setLayout(new BoxLayout(p, BoxLayout.X_AXIS));
 
         final JButton b1 = new JButton("Good");
-        final JButton b2 = new JButton("Bad");
-        final JButton b3 = new JButton("Meh");
+        final JButton b2 = new JButton("Meh");
+        final JButton b3 = new JButton("Bad");
 
         p.add(b1);
         p.add(b2);
@@ -47,7 +47,6 @@ public class NatureMain {
                     i[0]++;
                     ImageIcon img = new ImageIcon(filename);
                     imageLabel.setIcon(img);
-                    System.out.println(filename);
                 } else {
                     String filename = "images/meh.png";
                     if(myScore > 0)
