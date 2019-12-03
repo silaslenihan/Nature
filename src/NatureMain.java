@@ -20,7 +20,7 @@ public class NatureMain {
     }
 
     public static void displayImages(String[] scenes) {
-        JFrame f = new JFrame("A JFrame");
+        JFrame f = new JFrame("Nature Revision");
         f.setSize(1000, 1000);
         f.setLocation(300, 200);
         final int[] i = {0};
