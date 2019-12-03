@@ -7,18 +7,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6a8059d-d837-49c8-bb9e-d8e29fb517b4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Nature_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/more tards.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/tards.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/tards2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Nature/META-INF/Nature.kotlin_module" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Nature/NatureMain$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Nature/NatureMain$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Nature/NatureMain$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Nature/NatureMain$2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Nature/NatureMain$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Nature/NatureMain$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Nature/NatureMain$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Nature/NatureMain$4.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Nature/NatureMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Nature/NatureMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NatureMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NatureMain.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
